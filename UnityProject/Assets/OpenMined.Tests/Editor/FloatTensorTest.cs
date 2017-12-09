@@ -720,7 +720,7 @@ public void Sigmoid_()
 	}
 	
 	float[] data4 = { 1000.0f };
-	int[] data4 = { 1 };	
+	int[] shape4 = { 1 };	
 	float[] data5 = { -1000.0f };
 	int[] shape5 = { 1 };
 	
